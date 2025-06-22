@@ -1,3 +1,4 @@
 prepare
 fix it well
 write
+fix the computer
