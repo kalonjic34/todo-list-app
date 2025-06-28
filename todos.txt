@@ -1,5 +1,8 @@
 Fix the drawer
 Add a new member
 Buy a camera
-Buy paint
-Clean the code
+Clean the program
+Master Python
+Get the car
+My newest todo is added
+Add lastly
